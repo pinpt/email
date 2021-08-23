@@ -1,6 +1,6 @@
-import { generate } from '..';
-import site from './data/site.json';
-import changelogs from './data/changelogs.json';
+const { generate } = require('..');
+const site = require('./data/site.json');
+const changelogs = require('./data/changelogs.json');
 
 test('exported', () => {
 	expect(generate).toBeDefined();

@@ -1,6 +1,6 @@
-import path from 'path';
-import fs from 'fs';
-import Handlebars from 'handlebars';
+const path = require('path');
+const fs = require('fs');
+const Handlebars = require('handlebars');
 
 Handlebars.registerHelper('gte', function (v1, v2, options) {
 	if (v1 >= v2) {

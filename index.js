@@ -1,10 +1,7 @@
-import fs from 'fs';
-import path from 'path';
-import Handlebars from 'handlebars';
-import { fileURLToPath } from 'url';
-import './helpers.mjs';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const fs = require('fs');
+const path = require('path');
+const Handlebars = require('handlebars');
+require('./helpers');
 
 const validTemplates = ['changelog'];
 const aliases = {
@@ -32,4 +29,4 @@ const generate = (templateName, data) => {
 	return tmpl(_data);
 };
 
-export { generate };
+module.exports = { generate };
