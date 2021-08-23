@@ -1,10 +1,17 @@
 {
 	"name": "@pinpt/email",
 	"version": "0.0.1",
-	"description": "",
+	"description": "Email templates for Pinpoint",
 	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pinpt/email.git"
+	},
 	"scripts": {
-		"test": "jest --config=jest.config.js"
+		"test": "jest --config=jest.config.js",
+		"test:ci": "jest --ci --config=jest.config.js --reporters='default' --reporters='./.github/github-actions-reporter'",
+		"test:write": "npm run test -- --updateSnapshot",
+		"format": "prettier --write ."
 	},
 	"dependencies": {
 		"handlebars": "^4.7.7"
