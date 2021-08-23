@@ -1,8 +1,9 @@
 {
 	"name": "@pinpt/email",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Email templates for Pinpoint",
 	"main": "index.js",
+	"types": "index.d.ts",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pinpt/email.git"
