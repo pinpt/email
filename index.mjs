@@ -18,7 +18,7 @@ const generate = (templateName, data) => {
 	}
 	const fn = path.join(__dirname, 'src', name, 'email.html');
 	if (!fs.existsSync(fn)) {
-		throw new Error(`couldn't find template`);
+		throw new Error(`couldn't find template at ${fn}`);
 	}
 	const template = fs.readFileSync(fn).toString();
 	const tmpl = Handlebars.compile(template);
