@@ -1,0 +1,17 @@
+{
+	"name": "@pinpt/email",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --config=jest.config.js"
+	},
+	"dependencies": {
+		"handlebars": "^4.7.7"
+	},
+	"devDependencies": {
+		"@babel/preset-env": "^7.15.0",
+		"babel": "^6.23.0",
+		"jest": "^27.0.6"
+	}
+}
