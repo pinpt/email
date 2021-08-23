@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Handlebars from 'handlebars';
 import { fileURLToPath } from 'url';
-import './helpers';
+import './helpers.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
