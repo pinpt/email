@@ -1,16 +1,17 @@
 {
 	"name": "@pinpt/email",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Email templates for Pinpoint",
 	"main": "index.js",
 	"types": "index.d.ts",
+	"type": "module",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pinpt/email.git"
 	},
 	"scripts": {
-		"test": "jest --config=jest.config.js",
-		"test:ci": "jest --ci --config=jest.config.js --reporters='default' --reporters='./.github/github-actions-reporter'",
+		"test": "NODE_OPTIONS=--experimental-vm-modules jest",
+		"test:ci": "NODE_OPTIONS=--experimental-vm-modules jest --ci --reporters='default'",
 		"test:write": "npm run test -- --updateSnapshot",
 		"format": "prettier --write ."
 	},
@@ -21,5 +22,22 @@
 		"@babel/preset-env": "^7.15.0",
 		"babel": "^6.23.0",
 		"jest": "^27.0.6"
+	},
+	"jest": {
+		"testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|mjs?|js?|tsx?|ts?)$",
+		"transform": {
+			"^.+\\.jsx?$": "babel-jest",
+			"^.+\\.mjs$": "babel-jest"
+		},
+		"testPathIgnorePatterns": [
+			"<rootDir>/build/",
+			"<rootDir>/node_modules/"
+		],
+		"moduleFileExtensions": [
+			"mjs",
+			"js",
+			"jsx",
+			"mjs"
+		]
 	}
 }

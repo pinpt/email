@@ -1,4 +1,4 @@
-import { generate } from '../';
+import { generate } from '..';
 import site from './data/site.json';
 import changelogs from './data/changelogs.json';
 
