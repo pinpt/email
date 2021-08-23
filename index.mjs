@@ -1,7 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 import Handlebars from 'handlebars';
+import { fileURLToPath } from 'url';
 import './helpers';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const validTemplates = ['changelog'];
 const aliases = {
