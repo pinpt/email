@@ -70,3 +70,38 @@ Handlebars.registerHelper('include', function (arg) {
 	const buf = fs.readFileSync(fn).toString();
 	return new Handlebars.SafeString(Handlebars.compile(buf)(context));
 });
+
+Handlebars.registerHelper('ifCond', function (v1, operator, v2, options) {
+	switch (operator) {
+		case '==':
+			return v1 == v2 ? options.fn(this) : options.inverse(this);
+		case 'eq':
+		case '===':
+			return v1 === v2 ? options.fn(this) : options.inverse(this);
+		case '!=':
+			return v1 != v2 ? options.fn(this) : options.inverse(this);
+		case 'neq':
+		case '!==':
+			return v1 !== v2 ? options.fn(this) : options.inverse(this);
+		case 'lt':
+		case '<':
+			return v1 < v2 ? options.fn(this) : options.inverse(this);
+		case 'lte':
+		case '<=':
+			return v1 <= v2 ? options.fn(this) : options.inverse(this);
+		case 'gt':
+		case '>':
+			return v1 > v2 ? options.fn(this) : options.inverse(this);
+		case 'gte':
+		case '>=':
+			return v1 >= v2 ? options.fn(this) : options.inverse(this);
+		case 'and':
+		case '&&':
+			return v1 && v2 ? options.fn(this) : options.inverse(this);
+		case 'or':
+		case '||':
+			return v1 || v2 ? options.fn(this) : options.inverse(this);
+		default:
+			return options.inverse(this);
+	}
+});
