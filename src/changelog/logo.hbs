@@ -1,5 +1,6 @@
 <table width="100%" cellpadding="0" cellspacing="0">
 	<tbody>
+		{{#ifCond site.theme.emailLogo "or" site.logoUrl }}
 		<tr>
 			<td
 				class="{{#if site.theme.emailLogo}}wi-100p{{/if}}"
@@ -15,6 +16,7 @@
 				</a>
 			</td>
 		</tr>
+		{{/ifCond}}
 		{{#if site.theme.emailLogo}} {{else}}
 		<tr>
 			<td

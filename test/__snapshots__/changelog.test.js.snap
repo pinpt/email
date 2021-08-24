@@ -1808,17 +1808,6 @@ a[x-apple-data-detectors], /* iOS */
                                     <tr>
                                         <td><table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
 	<tbody>
-		<tr>
-			<td
-				class=\\"\\"
-				align=\\"center\\"
-				style=\\"padding: 28px 0 24px\\"
-			>
-				<a href=\\"\\" target=\\"_blank\\" title=\\"Site Logo\\">
-						<img src=\\"\\" style=\\"width: 64px; max-height: 64px; height: 64px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000000; vertical-align: top; line-height: 18px; text-align: center; \\" alt=\\"\\" />
-				</a>
-			</td>
-		</tr>
 		
 		<tr>
 			<td
@@ -1965,6 +1954,804 @@ a[x-apple-data-detectors], /* iOS */
           <br />
           <a style=\\"color: #a5a5a5; text-decoration: underline\\" href=\\"__MANAGE_SUBSCRIPTION_LINK__\\" title=\\"Manage Subscription\\">Manage</a> your email notifications or
           <a style=\\"color: #a5a5a5; text-decoration: underline\\" href=\\"__UNSUBSCRIBE_LINK__\\" title=\\"Unsubscribe\\">unsubscribe</a> from  emails.
+          <br />
+          <br />
+        </td>
+      </tr>
+      <tr>
+        <td
+          align=\\"center\\"
+          style=\\"font-size: 12px;line-height: 17px;font-family: Arial, Helvetica, sans-serif;color:#a5a5a5; padding: 0 0 20px;\\"
+        >
+          <!-- NOTE: this image does open tracking so if you remove it, it will jack things up -->
+          <a href=\\"__POWEREDBY_LINK__\\" style=\\"color: #a5a5a5; text-decoration: none\\" title=\\"Powered by Pinpoint\\">
+            <img
+              src=\\"https://cdn.pinpoint.com/images/email/powered_by_30.png\\"
+              alt=\\"\\"
+              border=\\"0\\"
+              style=\\"width: auto\\"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</td> </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
+"
+`;
+
+exports[`site with no logo 1`] = `
+"<!DOCTYPE html>
+<html
+    lang=\\"en\\"
+    xmlns=\\"http://www.w3.org/1999/xhtml\\"
+    xmlns:v=\\"urn:schemas-microsoft-com:vml\\"
+    xmlns:o=\\"urn:schemas-microsoft-com:office:office\\"
+>
+    <head>
+        <!--[if gte mso 9]>
+<xml><o:OfficeDocumentSettings><o:AllowPNG /><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>Linked Content Blocks</title>
+<meta http-equiv=\\"Content-Type\\" content=\\"text/html; charset=utf-8\\" />
+<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\" />
+<meta http-equiv=\\"X-UA-Compatible\\" content=\\"IE=edge\\" />
+<meta name=\\"x-apple-disable-message-reformatting\\" />
+<meta name=\\"referrer\\" content=\\"origin\\">
+<meta
+  name=\\"format-detection\\"
+  content=\\"telephone=no,address=no,email=no,date=no,url=no\\"
+/>
+<meta name=\\"color-scheme\\" content=\\"light\\" />
+<meta name=\\"supported-color-schemes\\" content=\\"light\\" />
+<!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
+<!--[if mso]>
+      <style>
+        * {
+          font-family: Helvetica, Arial, sans-serif !important;
+        }
+      </style>
+<![endif]-->
+<style type=\\"text/css\\">
+a {
+  outline: none;
+  color: #000;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none !important;
+}
+.h-u a {
+  text-decoration: underline;
+}
+.h-u a:hover,
+.active-t a:hover {
+  text-decoration: none !important;
+}
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+a[href^=\\"tel\\"]:hover {
+  text-decoration: none !important;
+}
+.active-i a:hover,
+.active-t:hover {
+  opacity: 0.8;
+}
+.active-i a,
+.active-t {
+  transition: all 0.3s ease;
+}
+a img {
+  border: none;
+}
+b,
+strong {
+  font-weight: 700;
+}
+p {
+  margin: 0;
+}
+th {
+  padding: 0;
+}
+table td {
+  mso-line-height-rule: exactly;
+}
+:root {
+  color-scheme: light;
+  supported-color-schemes: light;
+} /* What it does: Stops email clients
+  resizing small text. */
+* {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+} /* What it does: forces Samsung Android mail
+  clients to use the entire viewport */
+#MessageViewBody,
+#MessageWebViewDiv {
+  width: 100% !important;
+} /* What it does: Stops Outlook from adding extra
+  spacing to tables. */
+table,
+td {
+  mso-table-lspace: 0pt !important;
+  mso-table-rspace: 0pt !important;
+} /* What it does: Fixes webkit padding
+  issue. */
+table {
+  border-spacing: 0 !important;
+  table-layout: fixed !important;
+  margin: 0 auto !important;
+} /* What it does: Uses a better
+  rendering method when resizing images in IE. */
+img {
+  -ms-interpolation-mode: bicubic;
+} /* What it does: A work-around for email clients meddling in
+  triggered links. */
+a[x-apple-data-detectors], /* iOS */
+  .unstyle-auto-detected-links a, .aBn {
+  border-bottom: 0 !important;
+  cursor: default !important;
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+} /* What it
+  does: Prevents Gmail from displaying a download button on large, non-linked
+  images. */
+.a6S {
+  display: none !important;
+  opacity: 0.01 !important;
+}
+@media only screen and (max-width: 667px) {
+  .w-100p {
+    width: 100% !important;
+  }
+  .tflex {
+    display: block !important;
+    width: 100% !important;
+  }
+  .t-c {
+    float: none !important;
+    margin: 0 auto !important;
+  }
+  .h-a {
+    height: auto !important;
+  }
+  .wi-100p img {
+    width: 100% !important;
+    height: auto !important;
+  }
+  .plr-22 {
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+  }
+}
+@media (prefers-dark-interface) {
+  body {
+    -apple-color-filter: none;
+  }
+}
+
+</style>
+
+    </head>
+    <body
+        width=\\"100%\\"
+        style=\\"mso-line-height-rule: exactly; background-color: #fff; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;\\"
+    >
+        <div>
+            <div style=\\"display: none;font-size: 1px;color: #e5e5e5;line-height: 1px;font-family: Helvetica, Arial, sans-serif;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;\\">
+  <!-- hack show in email preview lines but not in the body -->
+  Linked content blocks allow you to populate your content from the recently completed work. Annotations show you which issues and pull requests are linked.
+</div>
+            <table
+                width=\\"100%\\"
+                style=\\"background: #fff; min-width: 320px\\"
+                cellspacing=\\"0\\"
+                cellpadding=\\"0\\"
+            >
+                <tbody>
+                    <tr>
+                        <td>
+                            <table
+                                class=\\"w-100p\\"
+                                width=\\"650\\"
+                                align=\\"center\\"
+                                style=\\"max-width: 650px; margin: 0 auto\\"
+                                cellpadding=\\"0\\"
+                                cellspacing=\\"0\\"
+                            >
+                                <tbody>
+                                    <tr>
+                                        <td><table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+	<tbody>
+		
+		<tr>
+			<td
+				class=\\"wi-100p\\"
+				align=\\"center\\"
+				style=\\"padding: 10px 0 20px;color: #000000;font-size: 20px; line-height: 22px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+			>
+				New updates and improvements to Pinpoint
+			</td>
+		</tr>
+	</tbody>
+</table>
+</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=\\"padding: 45px 15px 50px\\" align=\\"center\\">
+                            <table
+                                width=\\"565\\"
+                                align=\\"center\\"
+                                style=\\"max-width: 565px;width: 100% !important; margin: 0 auto; align: center;\\"
+                                cellpadding=\\"0\\"
+                                cellspacing=\\"0\\"
+                            >
+                                <tbody>
+                                    <tr>
+                                        <td style=\\"padding: 0 0 70px\\">
+                                            <table
+                                                width=\\"100%\\"
+                                                cellpadding=\\"0\\"
+                                                cellspacing=\\"0\\"
+                                            >
+                                                <tbody>
+                                                    <tr>
+                                                        <td style=\\"padding: 10px 0 20px;color: #000000;font-size: 24px;line-height: 28px;font-weight: bold;font-family: Arial,Helvetica, sans-serif;\\">
+                                                            Linked Content Blocks
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td
+                                                            class=\\"plr-22\\"
+                                                            style=\\"padding: 32px 32px 20px; border: 1px solid #d1d1d1; border-radius: 10px;\\"
+                                                        >
+                                                            <table
+                                                                width=\\"100%\\"
+                                                                cellpadding=\\"0\\"
+                                                                cellspacing=\\"0\\"
+                                                            >
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td
+                                                                            class=\\"wi-100p\\"
+                                                                            align=\\"center\\"
+                                                                            style=\\"padding: 0 0 20px;\\"
+                                                                        >
+                                                                            <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/atBB4DPW5UrCgugTPw6M/Linked-Content-Blocks\\" title=\\"Linked Content Blocks Cover Image Email\\">
+                                                                                <img
+                                                                                    src=\\"https://file.pinpoint.com/dee04c201d3ac96f3314041b5382cc43;ULH_.DD%2500%25Ms%3Bxbxbj%5D00%25M~qRjjKV%5BRjax;1600x900.png\\"
+                                                                                    width=\\"500\\"
+                                                                                    style=\\"max-width: 500px;font-size: 10px;line-height: 14px;font-family: Helvetica,Arial,sans-serif;color: #000000;vertical-align: top;text-align: center;\\"
+                                                                                    alt=\\"\\"
+                                                                                  />
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 18px;line-height: 24px;font-weight: normal;font-family: Arial,Helvetica,sans-serif;\\">
+                                                                            Linked content blocks allow you to populate your content from the recently completed work. Annotations show you which issues and pull requests are linked.
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td
+                                                                            align=\\"center\\"
+                                                                            style=\\"padding: 30px 0 30px;\\"
+                                                                        >
+                                                                            <table
+                                                                                align=\\"center\\"
+                                                                                style=\\"margin: 0 auto;\\"
+                                                                                cellpadding=\\"0\\"
+                                                                                cellspacing=\\"0\\"
+                                                                            >
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td
+                                                                                            class=\\"active-t\\"
+                                                                                            align=\\"center\\"
+                                                                                            style=\\"mso-padding-alt: 12px 27px;background: #000000;color: #ffffff;font-weight: bold;font-size: 18px;line-height: 26px;font-family: Arial,Helvetica,sans-serif;border: 2px solid #000000;border-radius: 5px;\\"
+                                                                                        >
+                                                                                            <a style=\\"padding: 12px 27px; color: #ffffff; text-decoration: none; display: block;\\" href=\\"https://changelog.pinpoint.com/entry/atBB4DPW5UrCgugTPw6M/Linked-Content-Blocks\\" title=\\"Linked Content Blocks Details Link\\">Get the details &raquo;</a>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=\\"padding: 0 0 35px\\">
+                                            <table
+                                                width=\\"100%\\"
+                                                class=\\"t-c\\"
+                                                cellpadding=\\"0\\"
+                                                cellspacing=\\"0\\"
+                                                align=\\"center\\"
+                                            >
+                                                <tbody>
+                                                    <tr>
+                                                        <td
+                                                            style=\\"padding: 0 0 20px;color: #000000;font-size: 22px; line-height: 26px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+                                                        >
+                                                            Most Recent
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <table
+                                                                width=\\"100%\\"
+                                                                align=\\"center\\"
+                                                                style=\\"margin: 0 auto\\"
+                                                                cellpadding=\\"0\\"
+                                                                cellspacing=\\"0\\"
+                                                            >
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top;border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/StE5jjCjm9Yc0asGFGLZ/Changelog-planning-just-got-way-simpler\\" title=\\"Changelog planning just got way simpler! Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/dee04c201d3ac96f3314041b5382cc43;ULH_.DD%2500%25Ms%3Bxbxbj%5D00%25M~qRjjKV%5BRjax;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Changelog planning just got way simpler!
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        We could not be more excited to announce this feature 📣  This was born through our own use of the product after we integrated with GitHub.  Once you integrate an issue or code system you will see 
+Planning 
+populated with your recently completed...
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/StE5jjCjm9Yc0asGFGLZ/Changelog-planning-just-got-way-simpler\\"
+                  title=\\"Changelog planning just got way simpler! Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
+                                                                        ></th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/pgY2n6NhbmClO0flS126/Email-validation-filtering-and-subscriber-search\\" title=\\"Email validation, filtering, and subscriber search 🔍 Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/dee04c201d3ac96f3314041b5382cc43;ULH_.DD%2500%25Ms%3Bxbxbj%5D00%25M~qRjjKV%5BRjax;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Email validation, filtering, and subscriber search 🔍
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        As new users subscribe to your changelog you will be able to quickly see if they have verified and validated their email addresses with you.  Along with this you also now have the ability to search your subscriber list.  This will help you ensure...
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/pgY2n6NhbmClO0flS126/Email-validation-filtering-and-subscriber-search\\"
+                  title=\\"Email validation, filtering, and subscriber search 🔍 Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                     
+                                    <tr>
+                                        <td style=\\"padding: 0 0 35px\\">
+                                            <table
+                                                width=\\"100%\\"
+                                                class=\\"t-c\\"
+                                                cellpadding=\\"0\\"
+                                                cellspacing=\\"0\\"
+                                                align=\\"center\\"
+                                            >
+                                                <tbody>
+                                                    <tr>
+                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <table
+                                                                width=\\"100%\\"
+                                                                align=\\"center\\"
+                                                                style=\\"margin: 0 auto;\\"
+                                                                cellpadding=\\"0\\"
+                                                                cellspacing=\\"0\\"
+                                                            >
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/LMsqt0J1ZENnDGXj2cMt/Analytics-Drill-Down-and-Localization\\" title=\\"Analytics Drill-Down and Localization Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/dee04c201d3ac96f3314041b5382cc43;ULH_.DD%2500%25Ms%3Bxbxbj%5D00%25M~qRjjKV%5BRjax;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Analytics Drill-Down and Localization
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        We have now added drill-down analytics to give you even deeper insight into where your changelogs are having the most impact.  Check out the video below to lear
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/LMsqt0J1ZENnDGXj2cMt/Analytics-Drill-Down-and-Localization\\"
+                  title=\\"Analytics Drill-Down and Localization Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\" title=\\"Already mentioned notice Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/dee04c201d3ac96f3314041b5382cc43;ULH_.DD%2500%25Ms%3Bxbxbj%5D00%25M~qRjjKV%5BRjax;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Already mentioned notice
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        If you are lucky 🍀 enough to have tried our integrations we will now identify a PR or issue that has previously been mentioned in a changelog entry.  Maybe you want to mention it again, your call but we wanted to make sure you knew 😉...
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\"
+                  title=\\"Already mentioned notice Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr> <td style=\\"padding: 0 15px 35px\\">
+  <table
+    width=\\"450\\"
+    align=\\"center\\"
+    style=\\"max-width: 450px; width: 100% !important; margin: 0 auto\\"
+    cellpadding=\\"0\\"
+    cellspacing=\\"0\\"
+  >
+    <tbody>
+      <tr>
+  <td style=\\"padding: 0 0 35px\\">
+    <table
+      align=\\"center\\"
+      style=\\"margin: 0 auto\\"
+      cellpadding=\\"0\\"
+      cellspacing=\\"0\\"
+    >
+      <tbody>
+        <tr>
+            <td
+              class=\\"active-i\\"
+              style=\\"line-height: 1px;font-size: 1px; mso-line-height-rule: at-least;\\"
+            >
+              <a
+                style=\\"text-decoration: none\\"
+                href=\\"https://www.facebook.com/Pinpoint.Engineering\\"
+                title=\\"Facebook\\"
+              ><img
+                  src=\\"https://cdn.pinpoint.com/images/social/facebook.png\\"
+                  width=\\"19\\"
+                  style=\\"width: 19px; max-width: 19px;font-size: 10px;line-height: 12px;font-family: Arial, Helvetica, sans-serif;color: #000;background-color: #fff;vertical-align: top;text-align: center;\\"
+                  alt=\\"facebook\\"
+                /></a>
+            </td>
+            <td width=\\"30\\" style=\\"font-size: 1px; line-height: 1px\\"></td>
+            <td
+              class=\\"active-i\\"
+              style=\\"line-height: 1px;font-size: 1px; mso-line-height-rule: at-least;\\"
+            >
+              <a
+                style=\\"text-decoration: none\\"
+                href=\\"https://www.instagram.com/pinpoint_sw/\\"
+                title=\\"Instagram\\"
+              ><img
+                  src=\\"https://cdn.pinpoint.com/images/social/instagram.png\\"
+                  width=\\"19\\"
+                  style=\\"width: 19px; max-width: 19px;font-size: 10px;line-height: 12px;font-family: Arial, Helvetica, sans-serif;color: #000;background-color: #fff;vertical-align: top;text-align: center;\\"
+                  alt=\\"instagram\\"
+                /></a>
+            </td>
+            <td width=\\"30\\" style=\\"font-size: 1px; line-height: 1px\\"></td>
+            <td
+              class=\\"active-i\\"
+              style=\\"line-height: 1px;font-size: 1px; mso-line-height-rule: at-least;\\"
+            >
+              <a
+                style=\\"text-decoration: none\\"
+                href=\\"https://linkedin.com/company/pinpoint-software\\"
+                title=\\"LinkedIn\\"
+              ><img
+                  src=\\"https://cdn.pinpoint.com/images/social/linkedin.png\\"
+                  width=\\"19\\"
+                  style=\\"width: 19px; max-width: 19px;font-size: 10px;line-height: 12px;font-family: Arial, Helvetica, sans-serif;color: #000;background-color: #fff;vertical-align: top;text-align: center;\\"
+                  alt=\\"linkedin\\"
+                /></a>
+            </td>
+            <td width=\\"30\\" style=\\"font-size: 1px; line-height: 1px\\"></td>
+            <td
+              class=\\"active-i\\"
+              style=\\"line-height: 1px;font-size: 1px; mso-line-height-rule: at-least;\\"
+            >
+              <a
+                style=\\"text-decoration: none\\"
+                href=\\"https://twitter.com/pinpoint_sw\\"
+                title=\\"Twitter\\"
+              >
+                  <img
+                    src=\\"https://cdn.pinpoint.com/images/social/twitter.png\\"
+                    width=\\"19\\"
+                    style=\\"width: 19px; max-width: 19px;font-size: 10px;line-height: 12px;font-family: Arial, Helvetica, sans-serif;color: #000;background-color: #fff;vertical-align: top;text-align: center;\\"
+                    alt=\\"twitter\\"
+                 />
+              </a>
+            </td>
+            <td width=\\"30\\" style=\\"font-size: 1px; line-height: 1px\\"></td>
+            <td
+              class=\\"active-i\\"
+              style=\\"line-height: 1px;font-size: 1px; mso-line-height-rule: at-least;\\"
+            >
+              <a
+                style=\\"text-decoration: none\\"
+                href=\\"https://github.com/pinpt\\"
+                title=\\"GitHub\\"
+              >
+                  <img
+                    src=\\"https://cdn.pinpoint.com/images/social/github.png\\"
+                    width=\\"19\\"
+                    style=\\"width: 19px; max-width: 19px;font-size: 10px;line-height: 12px;font-family: Arial, Helvetica, sans-serif;color: #000;background-color: #fff;vertical-align: top;text-align: center;\\"
+                    alt=\\"github\\"
+                 />
+              </a>
+            </td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+      <tr>
+        <td
+          align=\\"center\\"
+          style=\\"font-size: 12px;line-height: 17px;font-family: Arial, Helvetica, sans-serif;color: #a5a5a5;padding: 0 0 32px;\\"
+        >
+          Copyright © 2021 by Pinpoint Software, Inc.
+          <br />
+          3131 McKinney Ave Ste 502 PMB 98116 Dallas, Texas 75204-2426 US
+          <br />
+          <br />
+          <a style=\\"color: #a5a5a5; text-decoration: underline\\" href=\\"__MANAGE_SUBSCRIPTION_LINK__\\" title=\\"Manage Subscription\\">Manage</a> your email notifications or
+          <a style=\\"color: #a5a5a5; text-decoration: underline\\" href=\\"__UNSUBSCRIBE_LINK__\\" title=\\"Unsubscribe\\">unsubscribe</a> from Pinpoint emails.
           <br />
           <br />
         </td>

@@ -1,5 +1,6 @@
 const { generate } = require('..');
 const site = require('./data/site.json');
+const site_no_logo = require('./data/site_no_logo.json');
 const changelogs = require('./data/changelogs.json');
 
 test('exported', () => {
@@ -31,4 +32,13 @@ test('alias blog', () => {
 		changelog: changelogs[0],
 	};
 	expect(generate('blog', data)).toMatchSnapshot();
+});
+
+test('site with no logo', () => {
+	const data = {
+		site: site_no_logo,
+		changelogs,
+		changelog: changelogs[0],
+	};
+	expect(generate('changelog', data)).toMatchSnapshot();
 });
