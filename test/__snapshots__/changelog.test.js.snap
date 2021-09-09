@@ -349,6 +349,78 @@ a[x-apple-data-detectors], /* iOS */
           <tbody>
             <tr>
               <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/9gOsjHBg7tHtNllBWrY8/Publishing-Controls-and-Social-Posting\\" title=\\"Publishing Controls and Social Posting Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/7120741f0e5051b632fdd356fc1cdb16;U40m~QcbVUiFkafladjFUbiZk%5BcbZ%23jEkYbw;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Publishing Controls and Social Posting
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        When you publish a changelog you will now see a new Publish dialog which grants finer control over when you want to notify your subscribers.
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/9gOsjHBg7tHtNllBWrY8/Publishing-Controls-and-Social-Posting\\"
+                  title=\\"Publishing Controls and Social Posting Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
+                                                                        ></th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
                 <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/StE5jjCjm9Yc0asGFGLZ/Changelog-planning-just-got-way-simpler\\" title=\\"Changelog planning just got way simpler! Cover Image\\">
                   <img
                     src=\\"https://file.pinpoint.com/0b30097a5ab0b70f79d8659a43a06dc2;UAQ%2CL3~qIB_2IUt6IUs%3A00k9M%7CWCogRjWUtR;2428x1616.png\\"
@@ -403,17 +475,45 @@ populated with your recently completed...
   </tbody>
 </table>
                                                                         </th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"14\\"
-                                                                            height=\\"20\\"
-                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
-                                                                        ></th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                     
+                                    <tr>
+                                        <td style=\\"padding: 0 0 35px\\">
+                                            <table
+                                                width=\\"100%\\"
+                                                class=\\"t-c\\"
+                                                cellpadding=\\"0\\"
+                                                cellspacing=\\"0\\"
+                                                align=\\"center\\"
+                                            >
+                                                <tbody>
+                                                    <tr>
+                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <table
+                                                                width=\\"100%\\"
+                                                                align=\\"center\\"
+                                                                style=\\"margin: 0 auto;\\"
+                                                                cellpadding=\\"0\\"
+                                                                cellspacing=\\"0\\"
+                                                            >
+                                                                <tbody>
+                                                                    <tr>
                                                                         <th
                                                                             class=\\"tflex\\"
                                                                             width=\\"248\\"
                                                                             align=\\"left\\"
-                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
                                                                         >
                                                                             <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
   <tbody>
@@ -475,45 +575,16 @@ populated with your recently completed...
   </tbody>
 </table>
                                                                         </th>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                     
-                                    <tr>
-                                        <td style=\\"padding: 0 0 35px\\">
-                                            <table
-                                                width=\\"100%\\"
-                                                class=\\"t-c\\"
-                                                cellpadding=\\"0\\"
-                                                cellspacing=\\"0\\"
-                                                align=\\"center\\"
-                                            >
-                                                <tbody>
-                                                    <tr>
-                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <table
-                                                                width=\\"100%\\"
-                                                                align=\\"center\\"
-                                                                style=\\"margin: 0 auto;\\"
-                                                                cellpadding=\\"0\\"
-                                                                cellspacing=\\"0\\"
-                                                            >
-                                                                <tbody>
-                                                                    <tr>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
                                                                         <th
                                                                             class=\\"tflex\\"
                                                                             width=\\"248\\"
                                                                             align=\\"left\\"
-                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
+                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
                                                                         >
                                                                             <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
   <tbody>
@@ -564,77 +635,6 @@ populated with your recently completed...
                   style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
                   href=\\"https://changelog.pinpoint.com/entry/LMsqt0J1ZENnDGXj2cMt/Analytics-Drill-Down-and-Localization\\"
                   title=\\"Analytics Drill-Down and Localization Read More\\"
-                >
-                  Read more</a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
-                                                                        </th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"14\\"
-                                                                            height=\\"20\\"
-                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"248\\"
-                                                                            align=\\"left\\"
-                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
-                                                                        >
-                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-  <tbody>
-    <tr>
-      <td style=\\"padding: 20px 22px\\">
-        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-          <tbody>
-            <tr>
-              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
-                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\" title=\\"Already mentioned notice Cover Image\\">
-                  <img
-                    src=\\"\\"
-                    width=\\"230\\"
-                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
-                    alt=\\"\\"
-                  /></a>
-              </td>
-            </tr>
-            <tr>
-              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
-                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-                  <tbody>
-                    <tr>
-                      <td
-                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
-                      >
-                        Already mentioned notice
-                      </td>
-                    </tr>
-                    <tr>
-                      <td
-                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
-                      >
-                        If you are lucky 🍀 enough to have tried our integrations we will now identify a PR or issue that has previously been mentioned in a changelog entry.  Maybe you want to mention it again, your call but we wanted to make sure you knew 😉...
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td
-                class=\\"h-u\\"
-                valign=\\"bottom\\"
-                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
-              >
-                <a
-                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
-                  href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\"
-                  title=\\"Already mentioned notice Read More\\"
                 >
                   Read more</a>
               </td>
@@ -1158,6 +1158,78 @@ a[x-apple-data-detectors], /* iOS */
           <tbody>
             <tr>
               <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/9gOsjHBg7tHtNllBWrY8/Publishing-Controls-and-Social-Posting\\" title=\\"Publishing Controls and Social Posting Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/7120741f0e5051b632fdd356fc1cdb16;U40m~QcbVUiFkafladjFUbiZk%5BcbZ%23jEkYbw;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Publishing Controls and Social Posting
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        When you publish a changelog you will now see a new Publish dialog which grants finer control over when you want to notify your subscribers.
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/9gOsjHBg7tHtNllBWrY8/Publishing-Controls-and-Social-Posting\\"
+                  title=\\"Publishing Controls and Social Posting Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
+                                                                        ></th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
                 <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/StE5jjCjm9Yc0asGFGLZ/Changelog-planning-just-got-way-simpler\\" title=\\"Changelog planning just got way simpler! Cover Image\\">
                   <img
                     src=\\"https://file.pinpoint.com/0b30097a5ab0b70f79d8659a43a06dc2;UAQ%2CL3~qIB_2IUt6IUs%3A00k9M%7CWCogRjWUtR;2428x1616.png\\"
@@ -1212,17 +1284,45 @@ populated with your recently completed...
   </tbody>
 </table>
                                                                         </th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"14\\"
-                                                                            height=\\"20\\"
-                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
-                                                                        ></th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                     
+                                    <tr>
+                                        <td style=\\"padding: 0 0 35px\\">
+                                            <table
+                                                width=\\"100%\\"
+                                                class=\\"t-c\\"
+                                                cellpadding=\\"0\\"
+                                                cellspacing=\\"0\\"
+                                                align=\\"center\\"
+                                            >
+                                                <tbody>
+                                                    <tr>
+                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <table
+                                                                width=\\"100%\\"
+                                                                align=\\"center\\"
+                                                                style=\\"margin: 0 auto;\\"
+                                                                cellpadding=\\"0\\"
+                                                                cellspacing=\\"0\\"
+                                                            >
+                                                                <tbody>
+                                                                    <tr>
                                                                         <th
                                                                             class=\\"tflex\\"
                                                                             width=\\"248\\"
                                                                             align=\\"left\\"
-                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
                                                                         >
                                                                             <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
   <tbody>
@@ -1284,45 +1384,16 @@ populated with your recently completed...
   </tbody>
 </table>
                                                                         </th>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                     
-                                    <tr>
-                                        <td style=\\"padding: 0 0 35px\\">
-                                            <table
-                                                width=\\"100%\\"
-                                                class=\\"t-c\\"
-                                                cellpadding=\\"0\\"
-                                                cellspacing=\\"0\\"
-                                                align=\\"center\\"
-                                            >
-                                                <tbody>
-                                                    <tr>
-                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <table
-                                                                width=\\"100%\\"
-                                                                align=\\"center\\"
-                                                                style=\\"margin: 0 auto;\\"
-                                                                cellpadding=\\"0\\"
-                                                                cellspacing=\\"0\\"
-                                                            >
-                                                                <tbody>
-                                                                    <tr>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
                                                                         <th
                                                                             class=\\"tflex\\"
                                                                             width=\\"248\\"
                                                                             align=\\"left\\"
-                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
+                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
                                                                         >
                                                                             <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
   <tbody>
@@ -1373,77 +1444,6 @@ populated with your recently completed...
                   style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
                   href=\\"https://changelog.pinpoint.com/entry/LMsqt0J1ZENnDGXj2cMt/Analytics-Drill-Down-and-Localization\\"
                   title=\\"Analytics Drill-Down and Localization Read More\\"
-                >
-                  Read more</a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
-                                                                        </th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"14\\"
-                                                                            height=\\"20\\"
-                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"248\\"
-                                                                            align=\\"left\\"
-                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
-                                                                        >
-                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-  <tbody>
-    <tr>
-      <td style=\\"padding: 20px 22px\\">
-        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-          <tbody>
-            <tr>
-              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
-                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\" title=\\"Already mentioned notice Cover Image\\">
-                  <img
-                    src=\\"\\"
-                    width=\\"230\\"
-                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
-                    alt=\\"\\"
-                  /></a>
-              </td>
-            </tr>
-            <tr>
-              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
-                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-                  <tbody>
-                    <tr>
-                      <td
-                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
-                      >
-                        Already mentioned notice
-                      </td>
-                    </tr>
-                    <tr>
-                      <td
-                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
-                      >
-                        If you are lucky 🍀 enough to have tried our integrations we will now identify a PR or issue that has previously been mentioned in a changelog entry.  Maybe you want to mention it again, your call but we wanted to make sure you knew 😉...
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td
-                class=\\"h-u\\"
-                valign=\\"bottom\\"
-                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
-              >
-                <a
-                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
-                  href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\"
-                  title=\\"Already mentioned notice Read More\\"
                 >
                   Read more</a>
               </td>
@@ -2323,6 +2323,78 @@ a[x-apple-data-detectors], /* iOS */
           <tbody>
             <tr>
               <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
+                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/9gOsjHBg7tHtNllBWrY8/Publishing-Controls-and-Social-Posting\\" title=\\"Publishing Controls and Social Posting Cover Image\\">
+                  <img
+                    src=\\"https://file.pinpoint.com/7120741f0e5051b632fdd356fc1cdb16;U40m~QcbVUiFkafladjFUbiZk%5BcbZ%23jEkYbw;1600x900.png\\"
+                    width=\\"230\\"
+                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
+                    alt=\\"\\"
+                  /></a>
+              </td>
+            </tr>
+            <tr>
+              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
+                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+                  <tbody>
+                    <tr>
+                      <td
+                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
+                      >
+                        Publishing Controls and Social Posting
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
+                      >
+                        When you publish a changelog you will now see a new Publish dialog which grants finer control over when you want to notify your subscribers.
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class=\\"h-u\\"
+                valign=\\"bottom\\"
+                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
+              >
+                <a
+                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
+                  href=\\"https://changelog.pinpoint.com/entry/9gOsjHBg7tHtNllBWrY8/Publishing-Controls-and-Social-Posting\\"
+                  title=\\"Publishing Controls and Social Posting Read More\\"
+                >
+                  Read more</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+                                                                        </th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
+                                                                        ></th>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"248\\"
+                                                                            align=\\"left\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                        >
+                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+  <tbody>
+    <tr>
+      <td style=\\"padding: 20px 22px\\">
+        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
+          <tbody>
+            <tr>
+              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
                 <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/StE5jjCjm9Yc0asGFGLZ/Changelog-planning-just-got-way-simpler\\" title=\\"Changelog planning just got way simpler! Cover Image\\">
                   <img
                     src=\\"https://file.pinpoint.com/0b30097a5ab0b70f79d8659a43a06dc2;UAQ%2CL3~qIB_2IUt6IUs%3A00k9M%7CWCogRjWUtR;2428x1616.png\\"
@@ -2377,17 +2449,45 @@ populated with your recently completed...
   </tbody>
 </table>
                                                                         </th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"14\\"
-                                                                            height=\\"20\\"
-                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"
-                                                                        ></th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                     
+                                    <tr>
+                                        <td style=\\"padding: 0 0 35px\\">
+                                            <table
+                                                width=\\"100%\\"
+                                                class=\\"t-c\\"
+                                                cellpadding=\\"0\\"
+                                                cellspacing=\\"0\\"
+                                                align=\\"center\\"
+                                            >
+                                                <tbody>
+                                                    <tr>
+                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <table
+                                                                width=\\"100%\\"
+                                                                align=\\"center\\"
+                                                                style=\\"margin: 0 auto;\\"
+                                                                cellpadding=\\"0\\"
+                                                                cellspacing=\\"0\\"
+                                                            >
+                                                                <tbody>
+                                                                    <tr>
                                                                         <th
                                                                             class=\\"tflex\\"
                                                                             width=\\"248\\"
                                                                             align=\\"left\\"
-                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb;\\"
+                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
                                                                         >
                                                                             <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
   <tbody>
@@ -2449,45 +2549,16 @@ populated with your recently completed...
   </tbody>
 </table>
                                                                         </th>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                     
-                                    <tr>
-                                        <td style=\\"padding: 0 0 35px\\">
-                                            <table
-                                                width=\\"100%\\"
-                                                class=\\"t-c\\"
-                                                cellpadding=\\"0\\"
-                                                cellspacing=\\"0\\"
-                                                align=\\"center\\"
-                                            >
-                                                <tbody>
-                                                    <tr>
-                                                        <td style=\\"padding: 0 0 20px;color: #000000;font-size: 22px;line-height: 26px;font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <table
-                                                                width=\\"100%\\"
-                                                                align=\\"center\\"
-                                                                style=\\"margin: 0 auto;\\"
-                                                                cellpadding=\\"0\\"
-                                                                cellspacing=\\"0\\"
-                                                            >
-                                                                <tbody>
-                                                                    <tr>
+                                                                        <th
+                                                                            class=\\"tflex\\"
+                                                                            width=\\"14\\"
+                                                                            height=\\"20\\"
+                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
                                                                         <th
                                                                             class=\\"tflex\\"
                                                                             width=\\"248\\"
                                                                             align=\\"left\\"
-                                                                            style=\\"vertical-align: top; border: 1px solid #d1d1d1;border-radius: 10px;background-color: #f9fafb;\\"
+                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
                                                                         >
                                                                             <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
   <tbody>
@@ -2538,77 +2609,6 @@ populated with your recently completed...
                   style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
                   href=\\"https://changelog.pinpoint.com/entry/LMsqt0J1ZENnDGXj2cMt/Analytics-Drill-Down-and-Localization\\"
                   title=\\"Analytics Drill-Down and Localization Read More\\"
-                >
-                  Read more</a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
-                                                                        </th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"14\\"
-                                                                            height=\\"20\\"
-                                                                            style=\\"border: 1px solid transparent; border-radius: 10px;\\"></th>
-                                                                        <th
-                                                                            class=\\"tflex\\"
-                                                                            width=\\"248\\"
-                                                                            align=\\"left\\"
-                                                                            style=\\"vertical-align: top;  border: 1px solid #d1d1d1; border-radius: 10px; background-color: #f9fafb; \\"
-                                                                        >
-                                                                            <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-  <tbody>
-    <tr>
-      <td style=\\"padding: 20px 22px\\">
-        <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-          <tbody>
-            <tr>
-              <td class=\\"wi-100p\\" align=\\"left\\" style=\\"padding: 0 0 12px\\">
-                <a style=\\"text-decoration: none;\\" href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\" title=\\"Already mentioned notice Cover Image\\">
-                  <img
-                    src=\\"\\"
-                    width=\\"230\\"
-                    style=\\"max-width: 350px;font-size: 10px; line-height: 14px; font-family: Helvetica, Arial, sans-serif; background-color: #6c95ec; color: #ffffff; vertical-align: top; text-align: center;\\"
-                    alt=\\"\\"
-                  /></a>
-              </td>
-            </tr>
-            <tr>
-              <td class=\\"h-a\\" height=\\"98\\" valign=\\"top\\">
-                <table width=\\"100%\\" cellpadding=\\"0\\" cellspacing=\\"0\\">
-                  <tbody>
-                    <tr>
-                      <td
-                        style=\\"padding: 0 0 12px; color: #000000;font-size: 16px; line-height: 20px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;\\"
-                      >
-                        Already mentioned notice
-                      </td>
-                    </tr>
-                    <tr>
-                      <td
-                        style=\\"color: #000000;font-size: 16px;line-height: 22px;font-weight: normal; font-family: Arial,Helvetica,sans-serif;\\"
-                      >
-                        If you are lucky 🍀 enough to have tried our integrations we will now identify a PR or issue that has previously been mentioned in a changelog entry.  Maybe you want to mention it again, your call but we wanted to make sure you knew 😉...
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td
-                class=\\"h-u\\"
-                valign=\\"bottom\\"
-                style=\\"padding: 10px 0 0; color: #5551ff;font-size: 16px;line-height: 20px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;\\"
-              >
-                <a
-                  style=\\"color: #5551ff;text-decoration: none;font-weight: bold;\\"
-                  href=\\"https://changelog.pinpoint.com/entry/cH6S2fIjfxibjHapRrt3/Already-mentioned-notice\\"
-                  title=\\"Already mentioned notice Read More\\"
                 >
                   Read more</a>
               </td>
