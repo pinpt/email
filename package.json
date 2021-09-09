@@ -1,6 +1,6 @@
 {
 	"name": "@pinpt/email",
-	"version": "0.0.9",
+	"version": "1.0.0",
 	"description": "Email templates for Pinpoint",
 	"main": "index.js",
 	"types": "index.d.ts",
